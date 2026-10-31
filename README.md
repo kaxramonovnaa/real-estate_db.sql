@@ -57,7 +57,3 @@ The database contains 15 main tables:
 4. Execute the script.
 5. Explore the database.
 
-## 👩‍💻 Author
-
-Software Engineering Student  
-Interested in Backend Development and Database Management.
